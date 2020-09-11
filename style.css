@@ -16,6 +16,7 @@ h2{
 a{
 	color: #32CD32;
 	text-indent: 300px;
+	hover color: blue; text-decoration: none; font-weight: none; 
 }
 .box{    
 	background: rgba(0, 0, 128, .2);
